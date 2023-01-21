@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# MHJava
+ MHJava
 java coding
-=======
-# ui
->>>>>>> ff3ac2b (add project)
+
+Copyrights reserved for Method Heads' team 2023
